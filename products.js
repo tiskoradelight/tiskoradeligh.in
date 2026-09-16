@@ -1,8 +1,8 @@
 // Add/edit products here. Replace image URLs with your own product-image URLs.
 // Replace WHATSAPP_NUMBER with your WhatsApp number in international format WITHOUT + or spaces.
-// Example India: 919876543210
+// Example India: 918052030334
 
-const WHATSAPP_NUMBER = "919XXXXXXXXX";
+const WHATSAPP_NUMBER = "918052030334";
 
 const PRODUCTS = [
   {
@@ -15,8 +15,8 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    name: "Fashion Accessory",
-    category: "Fashion",
+    name: "Electronics",
+    category: "Neckbands",
     price: 1499,
     image: "https://placehold.co/800x800/f1f5f9/111827?text=Product+Image",
     description: "Add your product description here."
